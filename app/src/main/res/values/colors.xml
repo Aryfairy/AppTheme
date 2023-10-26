@@ -1,0 +1,9 @@
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="ColorPrimary">#3248BE</color>
+    <color name="ColorSecondary">#7083F1</color>
+    <color name="colorAccent">#6491DC</color>
+    <color name="corFonte">#1D275E</color>
+    <color name="corFundo">#4B589C</color>
+</resources>
