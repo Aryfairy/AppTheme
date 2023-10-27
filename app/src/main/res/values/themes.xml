@@ -11,9 +11,22 @@
     </style>
 
     <style name="myStyle" parent="Theme.Material3.DayNight.NoActionBar">
-        <item name="colorPrimary">#2c2c2c</item>
-        <item name="colorSecondary">#2e2e2e</item>
-        <item name="colorAccent">#2d2d2d</item>
+        <item name="colorPrimary">#FF8BF3</item>
+        <item name="colorSecondary">#C63F7C</item>
+        <item name="colorAccent">#B367C8</item>
+    </style>
+
+    <style name="mySplash" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#009688</item>
+        <item name="colorSecondary">#B2DFDB</item>
+        <item name="colorAccent">#607D8B</item>
+        <item name="textAppearanceBody1">#212121</item>
+        <item name="textAppearanceBody2">#757575</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:layout_marginTop">50dp</item>
+        <item name="android:textSize">20dp</item>
+
+
     </style>
 
     <style name="Theme.MyApp" parent="Base.Theme.MyApp" />
